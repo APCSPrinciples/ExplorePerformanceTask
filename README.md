@@ -4,7 +4,7 @@ See the [College Board handout](http://lhs-sfusd-ca.schoolloop.com/file/14681663
 Your completed explore performance task is due by the end of class on Thursday December 15th. Your submission will be graded on the 7 point scale used by the college board. For each of the 7 points there is no partial credit. Note that the 7 points are weighted:   
 1. Artifact 20%
 2. Plausible Fact 10%
-3.  One effect 15%
+3. One effect 15%
 4. Benefit AND harm 15%
 5. Identify data 15%
 6. Data concern 15%
@@ -27,6 +27,7 @@ Also note that hacking is not a harmful effect of a computing innovation and sho
 Use the College Board template to write your answers to the four prompts. Save your finished template as a pdf (in Microsoft Word, choose *File | Export* and choose *Create pdf/xps document*) The College Board recommends that you do not put your name on your artifact or on the template. Submit your computational artifact and template by logging in at [digitalportfolio.collegeboard.org](http://digitalportfolio.collegeboard.org). There is more information on how to use the digital portfolio website in the [college board student guide](https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf).
  
 <h2>Common Mistakes:</h2>   
+
 + For full credit you will want to avoid these common mistakes:
 + 2a: Make sure to explain why your innovation is "computational" meaning that is uses computers or computing devices (e.g. smartphones)
 + 2b: Say where you got images (e.g. Google image search or Canva image bank)
