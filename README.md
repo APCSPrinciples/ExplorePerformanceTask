@@ -12,11 +12,11 @@ Point     Topic                        Weight
 6            Data concern           15%
 7            Citations                   10%
  
-Submissions without at least 3 sources will not be accepted and will be returned to you. Make sure you _cite at least 3 of your references_ in your written responses. To get sources that have been written since June 2016 limit your Google search results to recent web sites. Click on *Tools* and then choose *Custom Range*.
+Submissions without at least 3 sources will not be accepted and will be returned to you. Make sure you _cite at least 3 of your references_ in your written responses. To get sources that have been written since June 2016 limit your Google search results to recent web sites. Click on *Tools* and then choose *Custom Range*.   
 ![Google Custom Date Range](GoogleCustomDateRange.png)   
-Then click enter 6/1/2017 in the From field. Click Go.
+Then click enter *6/1/2017* in the *From* field. Click *Go*.   
 ![Google Custom Range](GoogleToolsCustomRange.png)   
-Notice that your search results will all have a date listed.
+Notice that your search results will all have a date listed.   
 ![Google Range Results](GoogleRangeResults.png)   
 If you are having trouble establishing a date for a web site, try [Carbon Dating the Web](http://cd.cs.odu.edu/).
  
