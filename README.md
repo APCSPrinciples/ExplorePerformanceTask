@@ -1,16 +1,14 @@
 # Explore Performance Task
 See the [College Board handout](http://lhs-sfusd-ca.schoolloop.com/file/1468166350956/1239686294988/2264421825106539061.pdf) for details. You will be given 8 hrs of class time from November 28th until the end of class on Thursday December 15th to complete this assignment. You will submit your computational artifact (e.g. infographic) and your answers to the four prompts and citations on the College Board template.
  
-Your completed explore performance task is due by the end of class on Thursday December 15th. Your submission will be graded on the 7 point scale used by the college board. For each of the 7 points there is no partial credit. Note that the 7 points are weighted:
- 
-Point     Topic                        Weight
-1            Artifact                     20%
-2            Plausible Fact         10%
-3            One effect               15%
-4            Benefit AND harm   15%
-5            Identify data             15%
-6            Data concern           15%
-7            Citations                   10%
+Your completed explore performance task is due by the end of class on Thursday December 15th. Your submission will be graded on the 7 point scale used by the college board. For each of the 7 points there is no partial credit. Note that the 7 points are weighted:   
+1. Artifact 20%
+2. Plausible Fact 10%
+3.  One effect 15%
+4. Benefit AND harm 15%
+5. Identify data 15%
+6. Data concern 15%
+7. Citations 10%
  
 Submissions without at least 3 sources will not be accepted and will be returned to you. Make sure you _cite at least 3 of your references_ in your written responses. To get sources that have been written since June 2016 limit your Google search results to recent web sites. Click on *Tools* and then choose *Custom Range*.   
 ![Google Custom Range](GoogleToolsCustomRange.png)   
