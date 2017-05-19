@@ -26,12 +26,12 @@ Avoid the word "hack" when describing your data concern in part 2d. Instead, be 
  
 Also note that hacking is not a harmful effect of a computing innovation and should not be part of your answer to 2c.
  
-Use the attached template to write your answers to the four prompts. Save your finished template as a pdf (in Microsoft Word, choose File | Export and choose Create pdf/xps document) The College Board recommends that you do not put your name on your artifact or on the template. Submit your computational artifact and template by logging in at digitalportfolio.collegeboard.org. There is more information on how to use the digital portfolio website in the college board student guide.
+Use the College Board template to write your answers to the four prompts. Save your finished template as a pdf (in Microsoft Word, choose *File | Export* and choose *Create pdf/xps document*) The College Board recommends that you do not put your name on your artifact or on the template. Submit your computational artifact and template by logging in at [digitalportfolio.collegeboard.org](http://digitalportfolio.collegeboard.org). There is more information on how to use the digital portfolio website in the [college board student guide](https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf).
  
-Common Mistakes:
-For full credit you will want to avoid these common mistakes:
-2a: Make sure to explain why your innovation is "computational" meaning that is uses computers or computing devices (e.g. smartphones)
-2b: Say where you got images (e.g. Google image search or Canva image bank)
-2c: Do NOT use hacking or cost as a harmful effect. A harmful effect should be a specific result of your innovation.
-2d: Avoid the words hacking, hacked or hack. Be specific about your data concern and how the data in your innovation could be problematic or misused.
-2e: Make at least 3 inline references to 3 different citations. 2 sources need to be from June 2016 or later. See the instructions above on how to limit search results in google to June 2016 or later.
+<h2>Common Mistakes:</h2>
++ For full credit you will want to avoid these common mistakes:
++ 2a: Make sure to explain why your innovation is "computational" meaning that is uses computers or computing devices (e.g. smartphones)
++ 2b: Say where you got images (e.g. Google image search or Canva image bank)
++ 2c: Do NOT use hacking or cost as a harmful effect. A harmful effect should be a specific result of your innovation.
++ 2d: Avoid the words hacking, hacked or hack. Be specific about your data concern and how the data in your innovation could be problematic or misused.
++ 2e: Make at least 3 inline references to 3 different citations. 2 sources need to be from June 2017 or later. See the instructions above on how to limit search results in google to June 2016 or later.
