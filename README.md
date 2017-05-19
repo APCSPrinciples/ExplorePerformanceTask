@@ -31,6 +31,6 @@ Use the College Board template to write your answers to the four prompts. Save y
 + For full credit you will want to avoid these common mistakes:
 + 2a: Make sure to explain why your innovation is "computational" meaning that is uses computers or computing devices (e.g. smartphones)
 + 2b: Say where you got images (e.g. Google image search or Canva image bank)
-+ 2c: Do NOT use hacking or cost as a harmful effect. A harmful effect should be a specific result of your innovation.
-+ 2d: Avoid the words hacking, hacked or hack. Be specific about your data concern and how the data in your innovation could be problematic or misused.
-+ 2e: Make at least 3 inline references to 3 different citations. 2 sources need to be from June 2017 or later. See the instructions above on how to limit search results in google to June 2016 or later.
++ 2c: Do NOT use *hacking* or *cost* as a harmful effect. A harmful effect should be a specific result of your innovation.
++ 2d: Avoid the words *hacking*, *hacked* or *hack*. Be specific about your data concern and how the data in your innovation could be problematic or misused.
++ 2e: Make at least 3 inline references to 3 different citations. 2 sources need to be from June 2017 or later. See the instructions above on how to limit search results in google to June 2017 or later.
