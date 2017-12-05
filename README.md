@@ -1,5 +1,5 @@
 # Explore Performance Task
-See the [College Board handout](http://lhs-sfusd-ca.schoolloop.com/file/1468166350956/1239686294988/2264421825106539061.pdf) for details. You will be given 8 hrs of class time from November 28th until the end of class on Thursday December 15th to complete this assignment. You will submit your computational artifact (e.g. infographic) and your answers to the four prompts and citations on the College Board template.
+See the [College Board handout](https://apcentral.collegeboard.org/pdf/2018-explore-performance-tasks-sg.pdf) for details. You will be given 8 hrs of class time from December 5th until the end of class on Thursday December 21st to complete this assignment. You will submit your computational artifact (e.g. infographic) and your answers to the four prompts and citations on the [College Board template](https://docs.google.com/document/d/1y4M1B_EkcnAkG57uruDsNvYP0-m9Xmw144mn-68O_2w/edit).
  
 Your completed explore performance task is due by the end of class on Thursday December 15th. Your submission will be graded on the 7 point scale used by the college board. For each of the 7 points there is no partial credit. Note that the 7 points are weighted:   
 1. Artifact 20%
