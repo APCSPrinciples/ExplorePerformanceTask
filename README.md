@@ -21,7 +21,7 @@ If you are having trouble establishing a date for a web site, try [Carbon Dating
  
 Be sure to describe how you got any pictures for your artifact in your answer to 2b.
  
-Avoid the word "hack" when describing your data concern in part 2d. Instead, be specific and describe how there might be a problem with the data of your computing innovation. Look at the high scoring examples for ideas. Stating a data privacy concern, such as hacking, without an analysis that connects the concern to the computing innovation and a description of how the obtained data might be used to violate privacy rights will not get point number 6 for the data concern.
+Avoid the word "hack" when describing your data concern in part 2d. Instead, be specific and describe how there might be a problem with the data of your computing innovation. Look at the high scoring examples for ideas. Stating a data privacy concern, such as hacking, without an analysis that connects the concern to the computing innovation and a description of how the obtained data might be used to violate privacy rights will not get a point number the data concern.
  
 Also note that hacking is not a harmful effect of a computing innovation and should not be part of your answer to 2c.
  
