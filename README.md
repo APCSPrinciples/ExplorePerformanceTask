@@ -1,14 +1,15 @@
 # Explore Performance Task
 See the [College Board handout](https://apcentral.collegeboard.org/pdf/2018-explore-performance-tasks-sg.pdf) for details. You will be given 8 hrs of class time from December 5th until the end of class on Thursday December 21st to complete this assignment. You will submit your computational artifact (e.g. infographic) and your answers to the four prompts and citations on the [College Board template](https://docs.google.com/document/d/1y4M1B_EkcnAkG57uruDsNvYP0-m9Xmw144mn-68O_2w/edit).
  
-Your completed explore performance task is due by the end of class on Thursday December 15th. Your submission will be graded on the 7 point scale used by the college board. For each of the 7 points there is no partial credit. Note that the 7 points are weighted:   
-1. Artifact 20%
-2. Plausible Fact 10%
-3. One effect 15%
-4. Benefit AND harm 15%
-5. Identify data 15%
-6. Data concern 15%
-7. Citations 10%
+Your completed explore performance task is due by the end of class on Thursday December 15th. Your submission will be graded on the 8 point scale used by the college board. For each of the 8 points there is no partial credit.  
+1. Artifact 
+2. Plausible Fact 
+3. One effect 
+4. Benefit AND harm 
+5: How effect applies to society or culture (“so what?”)
+6. Identify data 
+7. Data concern 
+8. Citations 
  
 Submissions without at least 3 sources will not be accepted and will be returned to you. Make sure you _cite at least 3 of your references_ in your written responses. To get sources that have been written since June 2017 limit your Google search results to recent web sites. Click on *Tools* and then choose *Custom Range*.   
 ![Google Custom Range](GoogleToolsCustomRange.png)   
