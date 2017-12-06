@@ -11,7 +11,7 @@ Your completed explore performance task is due by the end of class on Thursday D
 7. Data concern 
 8. Citations 
  
-Submissions without at least 3 sources will not be accepted and will be returned to you. Make sure you _cite at least 3 of your references_ in your written responses. To get sources that have been written since June 2017 limit your Google search results to recent web sites. Click on *Tools* and then choose *Custom Range*.   
+Make sure you _cite at least 3 of your references_ in your written responses. Two of your sources need to be from June 2017 or later. To get sources that have been written since June 2017 limit your Google search results to recent web sites. Click on *Tools* and then choose *Custom Range*.   
 ![Google Custom Range](GoogleToolsCustomRange.png)   
 Then click enter *6/1/2017* in the *From* field. Click *Go*.   
 ![Google Custom Date Range](GoogleCustomDateRange.png)   
