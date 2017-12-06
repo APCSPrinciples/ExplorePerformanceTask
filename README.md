@@ -25,7 +25,7 @@ Avoid the word "hack" when describing your data concern in part 2d. Instead, be 
  
 Also note that hacking is not a harmful effect of a computing innovation and should not be part of your answer to 2c.
  
-Use the College Board template to write your answers to the four prompts. Save your finished template as a pdf (in Microsoft Word, choose *File | Export* and choose *Create pdf/xps document*) The College Board recommends that you do not put your name on your artifact or on the template. Submit your computational artifact and template by logging in at [digitalportfolio.collegeboard.org](http://digitalportfolio.collegeboard.org). There is more information on how to use the digital portfolio website in the [college board student guide](https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf).
+Use the [College Board template](https://docs.google.com/document/d/1y4M1B_EkcnAkG57uruDsNvYP0-m9Xmw144mn-68O_2w/edit) to write your answers to the four prompts. Save your finished template as a pdf (in Microsoft Word, choose *File | Export* and choose *Create pdf/xps document*) The College Board recommends that you do not put your name on your artifact or on the template. Submit your computational artifact and template by logging in at [digitalportfolio.collegeboard.org](http://digitalportfolio.collegeboard.org). There is more information on how to use the digital portfolio website in the [college board student guide](https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf).
  
 <h2>Common Mistakes:</h2>   
 
