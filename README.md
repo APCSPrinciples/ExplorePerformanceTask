@@ -5,7 +5,7 @@ Your completed explore performance task is due by the end of class on Thursday D
 1. Artifact 
 2. Plausible Fact 
 3. One effect 
-4. Benefit AND harm 
+4. Benefit AND harm   
 5: How effect applies to society or culture (“so what?”)
 6. Identify data 
 7. Data concern 
