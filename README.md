@@ -32,6 +32,6 @@ Use the [College Board template](https://docs.google.com/document/d/1y4M1B_EkcnA
 For full credit you will want to avoid these common mistakes:
 + 2a: Make sure to explain why your innovation is "computational" meaning that it uses computer code, computers or other computing devices (e.g. smartphones). Make sure you clearly name your innovation in your artifact.
 + 2b: Say where you got images (e.g. Google image search or Canva image bank)
-+ 2c: Do NOT use *hacking* or *cost* as a harmful effect. A harmful effect should be a specific result of your innovation when it is used and intended.
++ 2c: Do NOT use *hacking* or *cost* as a harmful effect. A harmful effect should be a specific result of your innovation when it is used as intended.
 + 2d: Avoid the words *hacking*, *hacked* or *hack*. Be specific about your data concern and how the data in your innovation could be problematic or misused.
 + 2e: Make at least 3 inline references to 3 different citations. 2 sources need to be from June 2017 or later. See the instructions above on how to limit search results in google to June 2017 or later.
