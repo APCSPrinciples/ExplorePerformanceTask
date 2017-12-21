@@ -2,14 +2,14 @@
 See the pages 4-6 of the [College Board handout](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf) for details. You will be given 8 hrs of class time from December 5th until the end of class on Thursday December 21st to complete this assignment. You will submit your computational artifact (e.g. infographic) and your answers to the four prompts and citations on the [College Board template](https://docs.google.com/document/d/1y4M1B_EkcnAkG57uruDsNvYP0-m9Xmw144mn-68O_2w/edit).
  
 Your completed explore performance task is due by the end of class on Thursday December 21st and should be submittied to [digitalportfolio.collegeboard.org](http://digitalportfolio.collegeboard.org). Your submission will be graded on the [8 point scale](https://apcentral.collegeboard.org/pdf/2018-explore-performance-tasks-sg.pdf) used by the college board. For each of the 8 points there is no partial credit.  
-1. Artifact 
+1. Artifact (Must identify innovation)
 2. Plausible Fact 
 3. One effect 
 4. Benefit AND harm   
 5. How effect applies to society or culture (“so what?”)
 6. Identify data 
 7. Data concern 
-8. Citations 
+8. 3 Inline Citations (minimum)
  
 Make sure you _cite at least 3 of your references_ in your written responses. Two of your sources need to be from June 2017 or later. To get sources that have been written since June 2017 limit your Google search results to recent web sites. Click on *Tools* and then choose *Custom Range*.   
 ![Google Custom Range](GoogleToolsCustomRange.png)   
