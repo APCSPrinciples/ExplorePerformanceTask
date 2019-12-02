@@ -1,5 +1,5 @@
 # Explore Performance Task
-See the pages 4-6 of the [College Board handout](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf) for details. You will be given 8 hrs of class time from Monday December 4th until the end of class on Thursday December 21st to complete this assignment. You will submit your computational artifact (e.g. infographic) and your answers to the four prompts and citations on the [College Board template](https://docs.google.com/document/d/1y4M1B_EkcnAkG57uruDsNvYP0-m9Xmw144mn-68O_2w/edit).
+See the pages 4-6 of the [College Board handout](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf) for details. You will be given 8 hrs of class time from Monday December 2nd until the end of class on Tuesday December 17th to complete this assignment. You will submit your computational artifact (e.g. infographic) and your answers to the four prompts and citations on the [College Board template](https://docs.google.com/document/d/1y4M1B_EkcnAkG57uruDsNvYP0-m9Xmw144mn-68O_2w/edit).
  
 Your completed explore performance task is due by the end of class on Tuesday December 17th and should be submittied *as final* to [digitalportfolio.collegeboard.org](http://digitalportfolio.collegeboard.org). Your submission will be graded on the [8 point scale](https://apcentral.collegeboard.org/pdf/ap-csp-explore-performance-task-scoring-guidelines-2019.pdf) used by the college board. For each of the 8 points there is no partial credit.  
 1. Artifact (must identify innovation)
@@ -11,7 +11,7 @@ Your completed explore performance task is due by the end of class on Tuesday De
 7. Data concern 
 8. 3 Inline Citations
  
-Make sure you _cite at least 3 of your references_ in your written responses. Two of your sources need to be from June 2017 or later. To get sources that have been written since June 2017 limit your Google search results to recent web sites. Click on *Tools* and then choose *Custom Range*.   
+Make sure you _cite at least 3 of your references_ in your written responses. Two of your sources need to be from June 2019 or later. To get sources that have been written since June 2019 limit your Google search results to recent web sites. Click on *Tools* and then choose *Custom Range*.   
 ![Google Custom Range](GoogleToolsCustomRange.png)   
 Then click enter *6/1/2017* in the *From* field. Click *Go*.   
 ![Google Custom Date Range](GoogleCustomDateRange.png)   
@@ -25,7 +25,7 @@ Avoid the word "hack" when describing your data concern in part 2d. Instead, be 
  
 Also note that hacking is not a harmful effect of a computing innovation and should not be part of your answer to 2c.
  
-Use the [College Board template](https://docs.google.com/document/d/1y4M1B_EkcnAkG57uruDsNvYP0-m9Xmw144mn-68O_2w/edit) to write your answers to the four prompts. Save your finished template as a pdf (in Microsoft Word, choose *File | Export* and choose *Create pdf/xps document*) The College Board recommends that you do not put your name on your artifact or on the template. Submit your computational artifact and template by logging in at [digitalportfolio.collegeboard.org](http://digitalportfolio.collegeboard.org). There is more information on how to use the digital portfolio website in the [college board student guide](https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf).
+Use the [College Board template](https://secure-media.collegeboard.org/ap/misc/csp-explore-template.dotx) to write your answers to the four prompts. Save your finished template as a pdf (in Microsoft Word, choose *File | Export* and choose *Create pdf/xps document*) The College Board recommends that you do not put your name on your artifact or on the template. Submit your computational artifact and template by logging in at [digitalportfolio.collegeboard.org](http://digitalportfolio.collegeboard.org). There is more information on how to use the digital portfolio website in the [college board student guide](https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf).
  
 <h2>Common Mistakes:</h2>   
 
