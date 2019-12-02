@@ -1,5 +1,5 @@
 # Explore Performance Task
-See the pages 4-6 of the [College Board handout](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf) for details. You may also find the [Explore Task slide presetation](https://docs.google.com/presentation/d/1L1wwbqHD5urpSqhINk0tYPQLCD59SF3yc0MCg53yjUU/edit?usp=sharing) helpful.   
+See the pages 4-6 of the [College Board handout](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf) for details. You may also find the [Explore Task slide presetation](https://docs.google.com/presentation/d/1L1wwbqHD5urpSqhINk0tYPQLCD59SF3yc0MCg53yjUU/edit?usp=sharing) helpful. At the bottom of this page are a list some common mistakes to avoid.  
 
 You will be given 8 hrs of class time from Monday December 2nd until the end of class on Tuesday December 17th to complete this assignment. You will submit your computational artifact (e.g. infographic) and your answers to the four prompts and citations on the [College Board template](https://docs.google.com/document/d/1y4M1B_EkcnAkG57uruDsNvYP0-m9Xmw144mn-68O_2w/edit).
  
